@@ -16,5 +16,5 @@ int main ()
 		printf("Too small.\a\n");
 	else
 		printf("Correct answer!\n");
-
+	return (0);
 }
